@@ -1,0 +1,70 @@
+body {
+  display: block;
+  margin: 8px;
+  background-color: #32FF6A;
+}
+
+h1 {
+  text-align: center;
+  font-size: 7rem;
+  color: #27AA80;
+  text-shadow: 8px 6px #F4FF61;
+  font-family: 'Gemunu Libre', sans-serif;
+}
+
+h2 {
+  font-family: 'Gemunu Libre', sans-serif;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 25px;
+  color: #27AA80;
+  line-height: 4rem;
+}
+
+p {
+  color: gray;
+  text-shadow: 8px 6px #32FF6A;
+}
+
+/* Divs */
+
+.mainDiv {
+  background-color: #A8FF3E;
+  display: block;
+  width: 70%;
+  margin: 2rem 15rem 2rem;
+  padding-top: 2rem;
+
+  text-align: center;
+}
+
+.buttonDiv {
+
+  margin: 4rem 25px 10px;
+  padding-bottom: 2rem;
+}
+
+.player1div {
+  margin-top: 3rem;
+  text-align: center;
+  display: inline-block;
+  padding-right: 10rem ;
+}
+
+.player2div {
+  text-align: center;
+  display: inline-block;
+}
+
+.dice {
+
+  padding-right: 3rem;
+  padding-left: 3rem;
+
+    display: block;
+  text-align: center;
+  display: inline-block;
+}
+
+.copyright {
+  padding: 2rem 1rem 1rem;
+}
